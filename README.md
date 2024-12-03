@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arijitkroy&label=Profile%20views&color=0e75b6&style=flat" alt="arijitkroy" /> </p>
 
-- 🌱 I’m currently learning **Assembly**
+- 🌱 I’m currently learning **Solidity**
 
 - 👨‍💻 All of my projects are available at [https://arijitkroy-portfolio.netlify.app](https://arijitkroy-portfolio.netlify.app)
 

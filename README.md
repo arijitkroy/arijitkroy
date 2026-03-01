@@ -5,7 +5,7 @@
 ### An experienced Javascript developer and an aspiring Web3 developer
 
 
-- 🔭 I'm currently working on **a Next.js (PWA + TWA) project**
+- 🔭 I'm currently working on **Next.js projects**
 
 - 🌱 I'm currently learning **Web3 and Cryptography**
 

@@ -50,6 +50,10 @@
 
 ---
 
+[![Top Languages](https://custom-stats-generator.vercel.app/api/top-langs?username=shadcn&theme=tokyonight)](https://github.com/shadcn)
+
+---
+
 ## 🔗 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-arijitkroy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arijitkroy)

@@ -28,7 +28,7 @@
 - 💬 Ask me about **Next.js, Firebase**
 - 📫 Reach me at **arijitkroy16@gmail.com**
 - 👨‍💻 All projects available at **[portfolio-arijitkroy.vercel.app](https://portfolio-arijitkroy.vercel.app/)**
-- 📄 My experience **[View Resume](https://drive.google.com/file/d/1mmjCyQak2v5pKo_DikVYTdo_U3Xoldx0/view?usp=sharing)**
+- 📄 My experience **[View Resume](https://drive.google.com/file/d/1nRmEvwXlDI1IkDsq-6jK_Sz9ZXpoTj2N/view?usp=drive_link)**
 
 ---
 

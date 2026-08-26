@@ -50,7 +50,7 @@
 
 ---
 
-[![Top Languages](https://custom-stats-generator.vercel.app/api/top-langs?username=shadcn&theme=tokyonight)](https://github.com/shadcn)
+[![Top Languages](https://custom-stats-generator.vercel.app/api/top-langs?username=arijitkroy&theme=tokyonight)](https://github.com/arijitkroy)
 
 ---
 

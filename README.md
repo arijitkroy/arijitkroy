@@ -21,7 +21,7 @@
 
 ## 🚀 What I'm Up To
 
-- 🔭 Currently working on **Next.js projects**
+- 🔭 Currently working on **Next.js and Blockchain projects**
 - 🌱 Currently learning **Web3 and Cryptography**
 - 👯 Looking to collaborate on **Open Source, Short-Term or Long-Term Projects**
 - 🤝 Looking for help with **Web3**

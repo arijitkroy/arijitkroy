@@ -62,22 +62,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy-tawny.vercel.app/?username=arijitkroy&theme=flat&no-frame=true&margin-w=8)](https://github.com/tawny/github-profile-trophy)
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img align="center" src="https://readme-stats-liart-six.vercel.app/api?username=arijitkroy&show_icons=true&locale=en&theme=default&hide_border=true" alt="arijitkroy" />
-  &nbsp;
-  <img align="center" src="https://readme-stats-liart-six.vercel.app/api/top-langs?username=arijitkroy&layout=compact&hide_border=true" alt="arijitkroy top languages" />
-</p>
-
----
-
 ## 💡 Interests
 
 - 🌐 Web3 & Decentralized Applications

@@ -51,7 +51,7 @@
 ---
 
 [![Top Languages](https://custom-stats-generator.vercel.app/api/top-langs?username=arijitkroy&langs_count=8)](https://github.com/arijitkroy)
-[![GitHub Contributions](https://statsgenerator-seven.vercel.app/api/contributions?username=arijitkroy&theme=tokyonight&show_rank=false)](https://github.com/arijitkroy)
+[![GitHub Contributions](https://custom-stats-generator.vercel.app/api/contributions?username=arijitkroy&show_rank=false)](https://github.com/arijitkroy)
 
 ---
 
